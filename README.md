@@ -19,9 +19,10 @@ Make a clone of all the files in the repository.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following:
 
 ```bash
-pip3 install requests
-pip3 install beautifulsoup4
+pip install requests
+pip install beautifulsoup4
 ```
+OR you can use pip3 to install the packages.<br>
 Make sure you are using the correct version of Python (ideally Python 3).<br>
 Run the webscraping_amazon.py file
 
@@ -31,7 +32,7 @@ After successfully running the code, in the terminal, there should be a prompt a
 After that, it will show the top 5 products in the Amazon search. If the request is not found it will display an error message accordingly.<br>
 Then you can select the desired product with numbers from 1 to 5 to get more details about the product.<br>
 
-Demo video: 
+Demo video: https://youtu.be/_WVmMQblvRo
 
 ## Not functioning?
 If you run into difficulties or errors in the code please feel free to reach out.<br>
