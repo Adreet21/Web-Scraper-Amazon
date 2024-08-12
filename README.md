@@ -32,6 +32,9 @@ After successfully running the code, in the terminal, there should be a prompt a
 After that, it will show the top 5 products in the Amazon search. If the request is not found it will display an error message accordingly.<br>
 Then you can select the desired product with numbers from 1 to 5 to get more details about the product.<br>
 
+
+https://github.com/user-attachments/assets/434229ba-c765-497d-94d8-de463c4f6473
+
 Demo video: https://youtu.be/_WVmMQblvRo
 
 ## Not functioning?
